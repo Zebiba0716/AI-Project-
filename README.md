@@ -1,3 +1,9 @@
-Question 1 is about a simple Python script that implements the Rock, Paper, Scissors game and keeps track of the game statistics:
-Question 2 is about a Python program that reads in a string and gives you the character frequency count:
-Question 3 is about a Python program that converts Roman numerals to decimal numbers (up to 3999):
+**Group members**
+     NAME                       ID
+
+1. EZEDIN AFDEL……………………….......DBUR/1914/13
+2. GETAHUN WENDIMTEKA......……..DBUR/1886/13
+3. G/EGZIABHER .........……………..DBUR/4011/13
+4. YONAS ASEFA........... ……………DBUR/3879/13
+5. DESALEW TECHALU.............DBUR/1779/13
+6. ABEBE SISAY ..............……DBUR/1142/13
